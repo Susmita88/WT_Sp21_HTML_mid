@@ -1,0 +1,9 @@
+<html>
+ <head></head>
+ <body>
+  <H1>Family Details</H1>
+  <ul type="disc">
+   <li><b>Father Name:</b>Dipak Kumar Chowdhuty</li>
+   <li><b>Mother Name:</b>Sharmila Barua</li>
+ </body>
+</html>
